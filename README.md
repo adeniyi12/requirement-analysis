@@ -28,3 +28,22 @@ Requirement analysis is important for several reasons:
 
 5. **Requirement Validation**: This involves verifying that the requirements meet the needs of the stakeholders and users. This may involve prototyping, user testing, and other methods.
 
+# Types of Requirements
+There are several types of requirements that may be encountered during requirement analysis:
+
+1. **Functional Requirements**: These are the requirements that define what the software should do. They describe the features and functionality of the software.
+    - Example:
+      - Hotel Management (for owners/managers).
+      - Customer Services (for users).
+      - View Booking History
+      - Notification System
+      - Analytics and Reporting
+
+2. **Non-Functional Requirements**: These are the requirements that define how the software should behave. They describe the performance, security, and other qualities of the software.
+    - Example:
+      - Performance
+      - Security
+      - Low Latency
+      - Maintainability
+      - Scalability and Availability
+
