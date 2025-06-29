@@ -58,3 +58,15 @@ Use case diagrams are a type of UML diagram that is used to model the interactio
 3. **Validation**: Use case diagrams can be used to validate the requirements of the system. This helps to ensure that the requirements are complete, consistent, and achievable.
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
+
+# Acceptance Criteria
+
+Acceptance criteria are a set of conditions that must be met for a requirement to be considered complete. They are used to ensure that the software developed meets the needs of the users and stakeholders. 
+
+The importance of acceptance criteria cannot be overstated. They provide a clear and objective way to measure the success of the software development project. They help to ensure that the software developed meets the needs of the users and stakeholders, resulting in a successful and satisfying outcome. For a Checkout feature in a booking system, the acceptance criteria may include:
+
+1. The user should be able to view their booking details before checkout.
+2. The user should be able to select a payment method.
+3. The user should be able to enter their payment information.
+4. The user should be able to confirm their booking.
+5. The user should receive a confirmation email after checkout.
