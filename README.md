@@ -47,3 +47,14 @@ There are several types of requirements that may be encountered during requireme
       - Maintainability
       - Scalability and Availability
 
+# Use Case Diagrams
+
+Use case diagrams are a type of UML diagram that is used to model the interactions between the actors and the system. They are used to capture the requirements of the system in a visual format. The benefits of use case diagrams include:
+
+1. **Clarity**: Use case diagrams provide a clear and concise representation of the requirements of the system. This helps to ensure that everyone involved in the project has a clear understanding of what is expected.
+
+2. **Communication**: Use case diagrams are a useful tool for communicating the requirements of the system to stakeholders and users. This helps to ensure that everyone is on the same page and that there are no misunderstandings.
+
+3. **Validation**: Use case diagrams can be used to validate the requirements of the system. This helps to ensure that the requirements are complete, consistent, and achievable.
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
